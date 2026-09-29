@@ -2,7 +2,7 @@
 
 A Claude setup for testers. It takes agreed requirements to test cases a tester can run without asking anyone: a review of the requirements first, then the test cases, their coverage and the test data they need. Claude drafts, and you make the calls.
 
-It comes from **Claude for QAs · 01** on the [Rohan J](https://www.youtube.com/@rohanbuilds-ai) YouTube channel (in Hindi). In the episode, the requirements Excel from [Claude for BAs · 01](https://youtu.be/LoEkFvSc9a4) (27 user stories, 87 acceptance criteria) goes to QA. Before writing a single test case, Claude reviews it and raises 33 points, 4 of them Blocking. Then come 138 test cases that cover all 87 criteria, the 65 test data files they need, and 44 open questions in one file for the BA and the developers.
+It comes from [**Claude for QAs · 01**](https://youtu.be/OTxv-_vFQf0) on the [Rohan J](https://www.youtube.com/@rohanbuilds-ai) YouTube channel (in Hindi). In the episode, the requirements Excel from [Claude for BAs · 01](https://youtu.be/LoEkFvSc9a4) (27 user stories, 87 acceptance criteria) goes to QA. Before writing a single test case, Claude reviews it and raises 33 points, 4 of them Blocking. Then come 138 test cases that cover all 87 criteria, the 65 test data files they need, and 44 open questions in one file for the BA and the developers.
 
 ## What's inside
 
